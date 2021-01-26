@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Hello Batch8");
 
-        System.out.println("Second commit");
+        
     }
 }
