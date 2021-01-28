@@ -12,5 +12,8 @@ public class Main {
         System.out.println("I have made some changes");
 
 
+        System.out.println("As user 2 I added some changes too");
+
+
     }
 }
